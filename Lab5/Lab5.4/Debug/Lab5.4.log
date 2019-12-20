@@ -1,0 +1,4 @@
+﻿  Lab5.4.cpp
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab5\Lab5.4\Lab5.4.cpp(9,6): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab5\Lab5.4\Lab5.4.cpp(9,21): warning C4101: p: неиспользованная локальная переменная
+  Lab5.4.vcxproj -> C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab5\Debug\Lab5.4.exe

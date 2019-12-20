@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab6.1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab6.1.cpp
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,23): warning C4101: max: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,33): warning C4101: jmi: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,18): warning C4101: min: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,43): warning C4101: jma: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,38): warning C4101: ima: неиспользованная локальная переменная
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Lab6.1\Lab6.1.cpp(9,28): warning C4101: imi: неиспользованная локальная переменная
+  Lab6.1.vcxproj -> C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab6\Debug\Lab6.3.exe
