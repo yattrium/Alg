@@ -3,6 +3,7 @@
 
 int main()
 {
+	system("color F0");
 	setlocale(LC_ALL, "Russian");
 	float n, a, x, i;
 	cout << "Введите N " << endl;
@@ -11,10 +12,7 @@ int main()
 		for (i = 1; i <= n; i++)
 		{
 			a = x * i;
-			if (a < 10)
-				cout << a << " ";
-			else
-				cout << a << " ";
+			cout << a << " ";
 		}
 		cout << endl;
 	}

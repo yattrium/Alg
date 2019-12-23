@@ -1,18 +1,23 @@
-﻿using namespace std;
-#include <iostream> 
+﻿#include <iostream>
+#include <locale>
+
+using namespace std;
 
 int main()
 {
-	int b, i;
-	float s;
-	i = 100;
-	s = 0;
-	cout << "введите b=>100 " << endl;
+	system("color F0");
+	setlocale(LC_ALL, "Russian");
+	int a, b, c;
+	a = 0;
+	cout << "Введите b:";
 	cin >> b;
-	for (i; i <= b; i++)
-		s = pow(i, 2) + s;
-	s = s / ((b + 1) - 100);
-	cout <<"среднее арифметическое = \n"<< s;
+	c = 0;
+	a = b;
+	for (b = 1; b < a + 1; b++)
+	{
+		c = (c + b * b) / 2;
+	}
+	cout << "Среднее арифметическое чисел в квадрате = " << c << endl;
 	system("pause");
 	return 0;
 }

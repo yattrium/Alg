@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+	system("color F0");
+	setlocale(LC_ALL, "Russian");
 	int a, b, c, max, min;
 	cout << "Введите первое число : ";
 	cin >> a;
@@ -24,5 +26,6 @@ int main()
 	cout << "min=" << min << endl;
 
 	system("pause");
+	system("color 70");
 	return 0;
 }

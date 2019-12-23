@@ -1,0 +1,4 @@
+﻿  Lab2.4.cpp
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab2\Lab2.4\Lab2.4.cpp(15,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab2\Lab2.4\Lab2.4.cpp(16,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab2.4.vcxproj -> C:\Users\Nastya\Desktop\Лабы\Алгоритмизация\Lab2\Debug\Lab2.4.exe
